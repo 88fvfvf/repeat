@@ -1,0 +1,39 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Hot Chocolate Fudge",
+      "image": "https://www.themealdb.com/images/media/meals/xrysxr1483568462.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Chocolate Souffle",
+      "image": "https://www.themealdb.com/images/media/meals/twspvx1511784937.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Fish pie",
+      "image": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Sweet and Sour Pork",
+      "image": "https://www.themealdb.com/images/media/meals/1529442316.jpg"
+    },
+    {
+      "id": "79cd",
+      "name": "Fish fofos",
+      "image": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg"
+    },
+    {
+      "id": "d364",
+      "name": "humani",
+      "image": "https://avatars.mds.yandex.net/i?id=e5d1651bc9d951fa0ff6f9e20f423c4787ec579f-12544827-images-thumbs&n=13"
+    },
+    {
+      "id": "2c4a",
+      "name": "Sushi",
+      "image": "https://avatars.mds.yandex.net/i?id=e795079c3e17348f2fba4301892c651f2899988e-12991056-images-thumbs&n=13"
+    }
+  ]
+}

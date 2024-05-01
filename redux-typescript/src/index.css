@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #202020;
+    color: aliceblue;
+    font-size: 16px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1200px;
+}
+button {
+    background-color: #e08594;
+    color: aliceblue;
+    border: none;
+    outline: none;
+    padding: 4px 5px;
+    border-radius: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    width: 150px;
+    height: 40px;
+}
+
+form {
+    padding: 0 10px;
+}
+
+input {
+    border: 1px solid transparent;
+    border-radius: 5px;
+    padding: 4px 5px;
+    margin-top: 10px;
+    color: #222;
+    outline: none;
+    transition: border-color 0.4s ease-in-out;
+    width: 250px;
+    height: 30px;
+    font-size: 16px;
+    margin: 10px 10px 10px 0;
+}
+
+input:focus {
+    border-color: #e08594;
+}
+.Create{
+    display: flex;
+    align-items: center;
+}
